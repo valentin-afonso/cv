@@ -1,0 +1,121 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Valentin Afonso",
+    "label": "Développeur web",
+    "image": "",
+    "email": "valentinafonso22@gmail.com",
+    "phone": "",
+    "url": "",
+    "summary": "",
+    "location": {
+      "countryCode": "FR",
+      "address": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "valentin-afonso-793130199",
+        "url": "https://www.linkedin.com/in/valentin-afonso-793130199/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Agence UPMOTION",
+      "position": "Développeur web",
+      "startDate": "2021-12-31",
+      "endDate": "",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/upmotion---web-&-com/",
+      "location": "Les Herbiers, Pays de la Loire, France"
+    },
+    {
+      "name": "Skribix",
+      "position": "Développeur web",
+      "startDate": "2021-11-30",
+      "endDate": "",
+      "highlights": [],
+      "summary": "Développement front et back-end PHP",
+      "url": "https://www.linkedin.com/company/skribix/",
+      "location": "France"
+    },
+    {
+      "name": "K•LINE France (Groupe LIÉBOT)",
+      "position": "Développeur digital",
+      "startDate": "2020-09-30",
+      "endDate": "2021-11-30",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/kline-france/",
+      "location": "Les Herbiers, Pays de la Loire, France"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "ECV Digital",
+      "area": "Développement web",
+      "studyType": "Master",
+      "startDate": "2021-12-31",
+      "endDate": "2023-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "IUT de Nantes",
+      "area": "Conception, Développement et Test de logiciels",
+      "studyType": "Licence professionnelle MiAR",
+      "startDate": "2020-12-31",
+      "endDate": "2021-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "ESUPEC",
+      "area": "Solutions Logicielles et Applications Métiers",
+      "studyType": "BTS SIO (Services informatiques aux organisations)",
+      "startDate": "2018-12-31",
+      "endDate": "2020-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Conception web",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Développement front-end",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Développement web back-end",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "fr",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
