@@ -36,6 +36,8 @@ jobs:
           npx resumed render resume.json --theme mooser
           mkdir public
           mv resume.html public/index.html
+      - with:
+        path: public
           
 
         
